@@ -7,11 +7,11 @@ Zion AI Status Comms — AI-drafted incident communications and status updates. 
 
 ## Related apps in the network
 
+- [Zion Status](https://github.com/Zion-support/zion-status) — public status page
 - [Status Page Generator](https://github.com/Zion-support/status-page-generator) — static status page creator
 - [Zion AI Incident Commander](https://github.com/Zion-support/zion-ai-incident-commander) — incident response orchestration
-- [Zion AI SLA Breach Sentinel](https://github.com/Zion-support/zion-ai-sla-breach-sentinel) — SLA breach early-warning
-- [Zion Status](https://github.com/Zion-support/zion-status) — public status page
 - [Zion AI SRE Postmortem Writer](https://github.com/Zion-support/zion-ai-sre-postmortem-writer) — auto-drafted postmortems
+- [Zion AI SLA Breach Sentinel](https://github.com/Zion-support/zion-ai-sla-breach-sentinel) — SLA breach early-warning
 
 ## Part of the Zion App Network
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
