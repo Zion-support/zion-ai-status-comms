@@ -1,10 +1,11 @@
-# Zion AI Status Comms
+# 🔗 Zion App Network
 
-AI-drafted incident communications and status updates.
+Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [status-page-generator](https://github.com/Zion-support/status-page-generator) · [zion-status](https://github.com/Zion-support/zion-status) · [zion-ai-incident-commander](https://github.com/Zion-support/zion-ai-incident-commander) · [zion-ai-sla-breach-sentinel](https://github.com/Zion-support/zion-ai-sla-breach-sentinel)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [status-page-generator](https://github.com/Zion-support/status-page-generator) · [zion-ai-incident-responder](https://github.com/Zion-support/zion-ai-incident-responder) · [zion-ai-incident-runbook](https://github.com/Zion-support/zion-ai-incident-runbook)
